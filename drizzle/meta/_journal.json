@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1763310691105,
+      "tag": "0000_fixed_captain_america",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1763310744049,
+      "tag": "0001_white_victor_mancha",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1763313449274,
+      "tag": "0002_stiff_giant_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1763314419268,
+      "tag": "0003_gigantic_puma",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1763315016730,
+      "tag": "0004_loud_hemingway",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1763316354453,
+      "tag": "0005_purple_weapon_omega",
+      "breakpoints": true
+    }
+  ]
+}
